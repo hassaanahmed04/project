@@ -1,0 +1,61 @@
+body{
+    background-color: gray;
+}
+
+.circle {
+  align-items: center;
+margin: auto;
+  width: 350px;
+  height: 350px;
+  line-height: 350px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
+  background: #000
+}
+.circle1 {
+  margin-left: auto;
+    width:250px;
+    height: 250px;
+    line-height: 250px;
+    border-radius: 50%;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+    background: #000
+  }
+  .circle2 {
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    line-height: 250px;
+    border-radius: 50%;
+   
+  }
+  .Hassaan {
+    color: #fff;
+  }
+  .hassan{
+    width: 250px;
+    clip-path: circle();
+  }
+  .shaher{
+    width: 250px;
+    clip-path: circle();
+  }
+  .shaheer {
+     
+    color: #fff;
+  }
+  .heading{
+    font-size: 30px;
+  }
+  .para {
+    
+    font-size: 35px;
+    margin-top: 50;
+    margin-left: 100;
+    margin-bottom: 100;
+    margin-right: 100;
+  }
