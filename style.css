@@ -20,10 +20,7 @@ margin: auto;
     height: 250px;
     line-height: 250px;
     border-radius: 50%;
-    font-size: 40px;
-    color: #fff;
-    text-align: center;
-    background: #000
+  
   }
   .circle2 {
     margin-right: auto;
@@ -34,7 +31,7 @@ margin: auto;
    
   }
   .Hassaan {
-    color: #fff;
+    color: #000;
   }
   .hassan{
     width: 250px;
@@ -46,7 +43,7 @@ margin: auto;
   }
   .shaheer {
      
-    color: #fff;
+    color: #000;
   }
   .heading{
     font-size: 30px;
