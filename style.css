@@ -6,13 +6,10 @@ body{
   align-items: center;
 margin: auto;
   width: 350px;
-  height: 350px;
+  height: 300px;
   line-height: 350px;
-  border-radius: 50%;
-  font-size: 50px;
-  color: #fff;
-  text-align: center;
-  background: #000
+  border-radius: 70%;
+ 
 }
 .circle1 {
   margin-left: auto;
@@ -53,6 +50,6 @@ margin: auto;
     font-size: 35px;
     margin-top: 50;
     margin-left: 50;
-    margin-bottom: 100;
+    margin-bottom: 50;
     margin-right: 50;
   }
